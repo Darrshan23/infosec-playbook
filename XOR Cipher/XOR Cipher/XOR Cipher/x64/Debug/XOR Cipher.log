@@ -1,0 +1,4 @@
+﻿  XOR Cipher.cpp
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\infosec-playbook\XOR Cipher\XOR Cipher\XOR Cipher\XOR Cipher.cpp(9,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\infosec-playbook\XOR Cipher\XOR Cipher\XOR Cipher\XOR Cipher.cpp(19,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  XOR Cipher.vcxproj -> C:\Users\darrs\OneDrive\Desktop\Evolved Hackers Club\infosec-playbook\XOR Cipher\XOR Cipher\x64\Debug\XOR Cipher.exe
